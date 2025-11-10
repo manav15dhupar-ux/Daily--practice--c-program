@@ -5,7 +5,7 @@ int main()
     int n,d1,d2,d3,d4,d5;
     long int revnum;
     printf("Enter a five digit number:");
-    scanf("%ld",&n);
+    scanf("%d",&n);
     
 
     d5=n%10;
