@@ -1,9 +1,11 @@
 # Daily--practice--c-program
-This is my daily practice questions.
+<h1>This is my daily practice questions.</h1>
 <br>
-Author:Manav Dhupar
+Author:<b> Manav Dhupar</b>
 <br>
-Hobby:I like to code
-<br>
-<h1>Topics</h1>
-1.Operators
+Hobby:<b>I like to code</b>
+<br><hr>
+<h2>Topics</h2>
+1.Operators<br>
+2.Conditional statements
+
